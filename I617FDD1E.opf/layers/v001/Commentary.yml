@@ -1,0 +1,43 @@
+id: 8f681c7c2bcb41b59398d4495c27682c
+annotation_type: Commentary
+revision: '00001'
+annotations:
+  d5e326b985284f97bd14b9412a82e7b3:
+    span:
+      start: 654
+      end: 699
+    isverse: true
+  9cfee2b83b2c483cad8e1543d4817f4d:
+    span:
+      start: 726
+      end: 749
+    isverse: true
+  bee37e240fba47bb842a2caf0a16c9af:
+    span:
+      start: 779
+      end: 838
+    isverse: true
+  96fe0adac0514883abfc3694a9a5cd0c:
+    span:
+      start: 1071
+      end: 1096
+    isverse: true
+  65953f5c2a4c4587ad1f6957254eb4e6:
+    span:
+      start: 2823
+      end: 2829
+    isverse: true
+  ac5d200596294cf493a82a7bab6d4d42:
+    span:
+      start: 2831
+      end: 3074
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+local_ids:
+  d5e326b985284f97bd14b9412a82e7b3: 200000
+  9cfee2b83b2c483cad8e1543d4817f4d: 200001
+  bee37e240fba47bb842a2caf0a16c9af: 200002
+  96fe0adac0514883abfc3694a9a5cd0c: 200003
+  65953f5c2a4c4587ad1f6957254eb4e6: 200004
+  ac5d200596294cf493a82a7bab6d4d42: 200005
